@@ -12,12 +12,13 @@ This project is a comprehensive image processing tool that provides a suite of f
 * Plate detection
 
 ## Requirements
-Python 3.x
-OpenCV
-TensorFlow
-Keras
-Numpy
-PyQt6
+* Python 3.x
+* OpenCV
+* TensorFlow
+* Keras
+* Numpy
+* PyQt6
+* Tesseract OCR
 
 ## Note
 This project is intended for educational purposes only and is not intended for use in a real-world setting. The software may contain bugs and security vulnerabilities and should not be used for critical applications.
